@@ -1,6 +1,7 @@
 # flutter_todoey_app
 
 A new Flutter application.
+A simple todo application using Provider package.
 
 ## Getting Started
 
